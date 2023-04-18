@@ -1,5 +1,5 @@
 # can_gpt_code
-Code might not even compile, just to test whether can GPT code.
+Code might not even compile, just to test whether GPT can code.
 
 # What is it?
 Here is mine attempt to pretend to be a dumb and lazy developer who wants GPT-4 to write code for him.
