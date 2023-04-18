@@ -54,11 +54,11 @@ At this stage, GPT simply kicked the ball back to my court and asked me to choos
 Is that it? Probably I will continue to play with it.
 
 ## How does it perform as a productivity tool? 
-Do I really need GPT for this task? Hell no. I manage to code up mine without AI's help in 3 days, despite that I just picked up rust last month. My working (manual) version can be found in `rs-pderiv` repo. While this AI-generated version is gonna take quite a while. 
+Do I really need GPT for this task? Hell no. I managed to code up mine without AI's help in 3 days, despite that I just picked up rust last month. My working (manual) version can be found in `rs-pderiv` repo. While this AI-generated version is gonna take quite a while. 
 
 ## Does it help me to learn to be a better programmer? 
 It does suggest some API usages that I've probably never read up before hence I went to read up. 
-But it generates (non-functional) solutions too fast, not good for beginners. 
+But it generates (non-functional) solutions too fast, not very suitable for beginners. 
 It assumes that the users have the understanding of the algorithm, the compiler's behavior to guide it.
 Perhaps that's what AI fans' are saying what the "prompt engineering" will be.  
 
